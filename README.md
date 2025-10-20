@@ -5,9 +5,9 @@ Mehanike igrice su jako jednostavne, skakanje, bacanje projektila, kretanje. U n
 Sam artstyle igrice je Pixel Art jer pruze najvise mogucnosti i fleksibilnosti, u smislu animiranja i izmjena.
 
 Tehnologije koristene:
-  -Razvojno okruzenje i engine: Unity
-  -Programski jezik: C#
-  -Alat za dizajn: PixilArt.com
+-Razvojno okruzenje i engine: Unity
+-Programski jezik: C#
+-Alat za dizajn: PixilArt.com
 
 Velik broj likova nije animiran do kraja ili nije implementovan u igricu jos uvijek. Takodje cutscene, promjena izgleda princeze, muzika, sfx i drugi boss fightovi nisu ubaceni u igricu. 
 U direktorijumu igrice se takodje nalaze spriteovi za HUD, ambijentalni spriteovi za pozadinu i nivoe.
